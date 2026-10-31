@@ -1,7 +1,7 @@
 print("load starting")
 
 local success, result = pcall(function()
-return game:HttpGet("https://raw.githubusercontent.com/lucife1kin4-cloud/Supreme-MM2-Values/main/ui_overlay.lua")
+return game:HttpGet("https://raw.githubusercontent.com/lucife1kin4-cloud/Supreme-MM2-Values/main/ui_overlay.py")
 end)
 
 if success and result then
